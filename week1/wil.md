@@ -37,7 +37,7 @@ HTTP에 가장 적합한 네트워크 아키텍처
 - 표현 (Representation) → JSON 형식
 
 
-![image.png](week1/whitelabel093025.png)
+![image.png](whitelabel093025.png)
 
 # RESTful하게 작성한 API 설계 명세서
 
